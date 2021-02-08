@@ -1,13 +1,15 @@
 #######################################
-# Syntax Coloring Map For ProDinoMKRZero
+# Syntax Coloring Map For ProDinoESP32
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
 
-KMPProDinoMKRZero	KEYWORD1
+ProDinoESP32	KEYWORD1
 KMPCommon	KEYWORD1
+KMPRS485Serial	KEYWORD1
+MCP23S08	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
